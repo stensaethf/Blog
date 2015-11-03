@@ -1,5 +1,5 @@
 == README
 
-Simple Ruby on rails blog application. First application rails application I have made.
+Simple Ruby on rails blog application. First rails application I have made.
 
 * Ruby version: 2.2.3
